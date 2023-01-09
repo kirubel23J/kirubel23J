@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align ="center">Hey there 👋, I am kirubel mamuye</h1>
+ <h2 align="center">I am a software engineering student.</h2>
+
+![git](https://user-images.githubusercontent.com/102250797/211316474-8080cdef-e9f2-4fee-b8b5-7566083db95f.png)
+- 🌱 I’m currently learning full stack web development. 
 
 <!--
 **kirubel23J/kirubel23J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
