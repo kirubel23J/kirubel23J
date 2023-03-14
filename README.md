@@ -2,7 +2,10 @@
  <h2 align="center">I am a software engineering student.</h2>
 
 ![git](https://user-images.githubusercontent.com/102250797/211316474-8080cdef-e9f2-4fee-b8b5-7566083db95f.png)
-- 🌱 I’m currently learning full stack web development. 
+### My GitHub Statistics
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRUBEL23J&show_icons=true&theme=prussian) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIRUBEL23J&theme=prussian)](https://git.io/streak-stats) |
+| - | - |
 
 <!--
 **kirubel23J/kirubel23J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
